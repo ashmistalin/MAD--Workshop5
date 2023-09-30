@@ -1,4 +1,4 @@
-# MAD-workshop3
+# MAD-workshop5
 
 ## Design an application view to display the 'n' number of images using GridView Control/Widget in android studio.
 
