@@ -1,4 +1,4 @@
-# MAD-workshop3
+# MAD-workshop5
 
 ## Design an application view to display the 'n' number of images using GridView Control/Widget in android studio.
 
@@ -120,6 +120,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
+![Screenshot (358)](https://github.com/ashmistalin/MAD--Workshop5/assets/103128410/f1f727aa-47f4-4634-87d6-4c2b8f3e0179)
+![Screenshot (359)](https://github.com/ashmistalin/MAD--Workshop5/assets/103128410/55acfc53-8fba-41cd-9735-6375f007f0a5)
+
 
 ## RESULT:
 Thus an application view to display the 'n' number of images using GridView Control/Widget in android studio is desgined.
